@@ -3,13 +3,12 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "ng": "ng",
     "start": "npm run build-angular && npm run start-electron",
-    "build-angular": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e",
     "start-angular": "ng serve",
+    "build-angular": "ng build",
+    "test-angular": "ng test",
+    "lint-angular": "ng lint",
+    "e2e-angular": "ng e2e",
     "start-electron": "electron ./electron/main"
   },
   "private": true,
