@@ -4,12 +4,12 @@ A template for making Angular x Electron apps
 
 ## Checklist
 
-[x] Basic Angular Setup
-[x] Basic Electron Setup
-[x] Setup npm scripts for running angular inside electron
-[ ] Hot reload angular inside electron
-[ ] Setup Electron test environment
-[ ] Setup more npm scripts for building, testing, ... for electron
+* [x] Basic Angular Setup
+* [x] Basic Electron Setup
+* [x] Setup npm scripts for running angular inside electron
+* [ ] Hot reload angular inside electron
+* [ ] Setup Electron test environment
+* [ ] Setup more npm scripts for building, testing, ... for electron
 
 ## Code scaffolding
 
