@@ -11,7 +11,6 @@
     "e2e-angular": "ng e2e",
     "start-electron": "electron ./electron/main"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^4.0.0",
     "@angular/common": "^4.0.0",
