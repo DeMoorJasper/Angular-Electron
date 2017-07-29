@@ -1,6 +1,6 @@
 # Angular-Electron
 
-A template for making Angular x Electron apps
+A template for making [Angular](https://angular.io/) x [Electron](https://electron.atom.io/) apps
 
 ## Checklist
 
@@ -34,3 +34,7 @@ Run `npm run test-electron` to execute the electron unit tests via [Mocha](http:
 Run `npm run e2e-angular` to execute the end-to-end angular tests via [Protractor](http://www.protractortest.org/).
 
 Before running the tests make sure you are serving the app via `npm run start-angular`.
+
+### Buy me a coffee
+
+[donate](https://paypal.me/JasperDeMoor)
