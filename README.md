@@ -1,4 +1,4 @@
-![Dependancies](https://david-dm.org/DeMoorJasper/Angular-Electron)
+[![Dependancies](https://david-dm.org/DeMoorJasper/Angular-Electron.svg)](https://david-dm.org/DeMoorJasper/Angular-Electron)
 
 # Angular-Electron
 
@@ -43,4 +43,4 @@ MIT
 
 ### Buy me a coffee
 
-[![Paypal](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimg.talkandroid.com%2Fuploads%2F2016%2F02%2Fpaypal-app-logo.png&f=1)](https://paypal.me/JasperDeMoor)
+[Paypal](https://paypal.me/JasperDeMoor)
