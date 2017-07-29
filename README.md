@@ -8,7 +8,7 @@ A template for making Angular x Electron apps
 * [x] Basic Electron Setup
 * [x] Setup npm scripts for running angular inside electron
 * [ ] Hot reload angular inside electron
-* [ ] Setup Electron test environment
+* [x] Setup Electron test environment
 * [ ] Setup more npm scripts for building, testing, ... for electron
 
 ## Code scaffolding
@@ -22,7 +22,9 @@ To debug angular use the `npm run start-angular` command
 
 ## Running unit tests
 
+Run `npm test` to run the tests of both angular and electron.
 Run `npm run test-angular` to execute the angular unit tests via [Karma](https://karma-runner.github.io).
+Run `npm run test-electron` to execute the electron unit tests via [Mocha](http://mochajs.org/).
 
 ## Running end-to-end tests
 
