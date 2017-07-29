@@ -1,3 +1,5 @@
+![Dependancies](https://david-dm.org/DeMoorJasper/Angular-Electron)
+
 # Angular-Electron
 
 A template for making [Angular](https://angular.io/) x [Electron](https://electron.atom.io/) apps
@@ -35,6 +37,10 @@ Run `npm run e2e-angular` to execute the end-to-end angular tests via [Protracto
 
 Before running the tests make sure you are serving the app via `npm run start-angular`.
 
+## License
+
+MIT
+
 ### Buy me a coffee
 
-[donate](https://paypal.me/JasperDeMoor)
+[![Paypal](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimg.talkandroid.com%2Fuploads%2F2016%2F02%2Fpaypal-app-logo.png&f=1)](https://paypal.me/JasperDeMoor)
