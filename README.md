@@ -41,6 +41,6 @@ Before running the tests make sure you are serving the app via `npm run start-an
 
 MIT
 
-### Buy me a coffee
+### Wanna buy me a coffee?
 
 [Paypal](https://paypal.me/JasperDeMoor)
